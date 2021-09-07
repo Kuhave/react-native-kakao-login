@@ -26,10 +26,10 @@ Pod::Spec.new do |s|
 
   s.dependency "React"
 
-  s.dependency 'KakaoSDK', '~> 2.4.0'
-  s.dependency 'KakaoSDKCommon', '~> 2.4.0'
-  s.dependency 'KakaoSDKAuth', '~> 2.4.0'
-  s.dependency 'KakaoSDKUser', '~> 2.4.0'
-  s.dependency 'KakaoSDKTalk', '~> 2.4.0'
+  s.dependency 'KakaoSDK', '~> 2.5.0'
+  s.dependency 'KakaoSDKCommon', '~> 2.5.0'
+  s.dependency 'KakaoSDKAuth', '~> 2.5.0'
+  s.dependency 'KakaoSDKUser', '~> 2.5.0'
+  s.dependency 'KakaoSDKTalk', '~> 2.5.0'
 end
 
